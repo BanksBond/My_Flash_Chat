@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013075150018",
+    "project_id": "my-flash-chat-64907",
+    "storage_bucket": "my-flash-chat-64907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013075150018:android:b05ffeff7f1984738a675b",
+        "android_client_info": {
+          "package_name": "com.banksbond.my_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013075150018-9et8hs7nnifmb4rh83lmg183cbf85cel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5T4m_epuqo9Dqp_K74Ls4l6ATIVGVZK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013075150018-9et8hs7nnifmb4rh83lmg183cbf85cel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
