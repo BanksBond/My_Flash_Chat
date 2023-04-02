@@ -10,11 +10,25 @@ The objective of this project was to learn how to incorporate Firebase into our 
 
 I build a modern messaging app where users can sign up and log in to chat.
 
-![Welcome Screen](https://github.com/BanksBond/Images/blob/main/WelcomeScreen.jpg)
-![Register Screen](https://github.com/BanksBond/Images/blob/main/RegisterScreen.jpg)
-![Login Screen](https://github.com/BanksBond/Images/blob/main/RegisterScreen.jpg)
-![Chat Screen](https://github.com/BanksBond/Images/blob/main/ChatScreenKyeboard.jpg)
-
+### ScreenShots
+<img
+		width="210"
+		alt="Capture 1"
+		src="https://github.com/BanksBond/Images/blob/main/WelcomeScreen.jpg">
+<img
+		width="210"
+		alt="Capture 2"
+		src="https://github.com/BanksBond/Images/blob/main/RegisterScreen.jpg">
+<img
+		width="210"
+		alt="Capture 3"
+		src="https://github.com/BanksBond/Images/blob/main/RegisterScreen.jpg">
+<img
+		width="210"
+		alt="Capture 4"
+		src="https://github.com/BanksBond/Images/blob/main/ChatScreenKyeboard.jpg">
+  
+### Finished Video  
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
 ## What I've learned
